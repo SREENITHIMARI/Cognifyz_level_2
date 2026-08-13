@@ -1,0 +1,12 @@
+Python is a high-level, interpreted programming language.
+It's known for its simplicity and readability.
+Python supports multiple programming paradigms.
+
+Key features of Python:
+- Easy to learn and use
+- Extensive standard library
+- Dynamic typing
+- Automatic memory management
+- Great for web development, data science, and AI
+
+Python is used by many companies including Google, Facebook, and Instagram.
